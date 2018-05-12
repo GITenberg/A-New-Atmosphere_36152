@@ -1,0 +1,28 @@
+_repo: A-New-Atmosphere_36152
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamilton, Gail
+    alias: Dodge, Mary Abigail
+    birthdate: 1833
+    deathdate: 1896
+    gutenberg_agent_id: '886'
+    url: http://www.gutenberg.org/2009/agents/886
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Abigail_Dodge
+description: ''
+gutenberg_issued: '2011-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social conditions'
+- !lcc 'HQ'
+title: A New Atmosphere
+url: http://www.gutenberg.org/ebooks/36152
