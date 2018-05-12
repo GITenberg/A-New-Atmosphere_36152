@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/886
     wikipedia: http://en.wikipedia.org/wiki/Mary_Abigail_Dodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36152#A-New-Atmosphere
 gutenberg_issued: '2011-05-18'
 gutenberg_type: Text
 identifiers:
